@@ -1,0 +1,12 @@
+X:\_PROJECTS\TOOLS\symlinker\bin\Debug\net8.0\symlinker.exe
+X:\_PROJECTS\TOOLS\symlinker\bin\Debug\net8.0\symlinker.deps.json
+X:\_PROJECTS\TOOLS\symlinker\bin\Debug\net8.0\symlinker.runtimeconfig.json
+X:\_PROJECTS\TOOLS\symlinker\bin\Debug\net8.0\symlinker.dll
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.GeneratedMSBuildEditorConfig.editorconfig
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.AssemblyInfoInputs.cache
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.AssemblyInfo.cs
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.csproj.CoreCompileInputs.cache
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.sourcelink.json
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.dll
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.pdb
+X:\_PROJECTS\TOOLS\symlinker\obj\Debug\net8.0\symlinker.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+X:\_PROJECTS\UO\symlinker\bin\Release\net8.0\publish\symlinker.exe
+X:\_PROJECTS\UO\symlinker\bin\Release\net8.0\publish\symlinker.dll
+X:\_PROJECTS\UO\symlinker\bin\Release\net8.0\publish\symlinker.deps.json
+X:\_PROJECTS\UO\symlinker\bin\Release\net8.0\publish\symlinker.pdb

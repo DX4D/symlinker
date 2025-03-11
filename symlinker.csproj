@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <PublishSelfContained>true</PublishSelfContained>
+	  <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+	  <PublishDocumentationFiles>false</PublishDocumentationFiles>
+	  <PublishReferencesDocumentationFiles>false</PublishReferencesDocumentationFiles>
+	  <GenerateProgramDatabaseFile>false</GenerateProgramDatabaseFile>
+	  <CopyOutputSymbolsToOutputDirectory>false</CopyOutputSymbolsToOutputDirectory>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'" />
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'" />
+
+</Project>
